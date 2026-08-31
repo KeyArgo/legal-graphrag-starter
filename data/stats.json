@@ -1,0 +1,123 @@
+{
+  "documents_with_metadata_deduped": 112018,
+  "nodes_total": 119770,
+  "edges_total": 160793,
+  "nodes_by_type": {
+    "caselaw": 61411,
+    "us_statute": 3582,
+    "co_statute": 9364,
+    "statute": 25568,
+    "regulation": 18706,
+    "unknown": 426,
+    "guide": 22,
+    "rule": 688,
+    "form": 3
+  },
+  "edges_by_kind": {
+    "cites": 110211,
+    "part_of": 50582
+  },
+  "top_25_most_cited": [
+    {
+      "citation": "42 U.S.C. § 1983",
+      "in_degree": 1598
+    },
+    {
+      "citation": "C.R.S. § 24-51-1105",
+      "in_degree": 1329
+    },
+    {
+      "citation": "28 U.S.C. § 636",
+      "in_degree": 1222
+    },
+    {
+      "citation": "28 U.S.C. § 1332",
+      "in_degree": 867
+    },
+    {
+      "citation": "28 U.S.C. § 1331",
+      "in_degree": 787
+    },
+    {
+      "citation": "42 U.S.C. § 2000",
+      "in_degree": 589
+    },
+    {
+      "citation": "C.R.S. § 24-4-106",
+      "in_degree": 545
+    },
+    {
+      "citation": "28 U.S.C. § 158",
+      "in_degree": 543
+    },
+    {
+      "citation": "42 U.S.C. § 405",
+      "in_degree": 439
+    },
+    {
+      "citation": "28 U.S.C. § 1291",
+      "in_degree": 433
+    },
+    {
+      "citation": "C.R.S. § 19-1-103",
+      "in_degree": 403
+    },
+    {
+      "citation": "11 U.S.C. § 523",
+      "in_degree": 395
+    },
+    {
+      "citation": "C.R.S. § 13-17-102",
+      "in_degree": 358
+    },
+    {
+      "citation": "C.R.S. § 18-4-401",
+      "in_degree": 323
+    },
+    {
+      "citation": "C.R.S. § 19-3-604",
+      "in_degree": 312
+    },
+    {
+      "citation": "C.R.S. § 24-10-106",
+      "in_degree": 311
+    },
+    {
+      "citation": "42 U.S.C. § 423",
+      "in_degree": 307
+    },
+    {
+      "citation": "C.R.S. § 24-4-105",
+      "in_degree": 304
+    },
+    {
+      "citation": "C.R.S. § 24-1-136",
+      "in_degree": 300
+    },
+    {
+      "citation": "C.R.S. § 13-4-102",
+      "in_degree": 289
+    },
+    {
+      "citation": "28 U.S.C. § 2254",
+      "in_degree": 287
+    },
+    {
+      "citation": "11 U.S.C. § 101",
+      "in_degree": 286
+    },
+    {
+      "citation": "42 U.S.C. § 1988",
+      "in_degree": 283
+    },
+    {
+      "citation": "C.R.S. § 24-10-101",
+      "in_degree": 283
+    },
+    {
+      "citation": "28 U.S.C. § 1367",
+      "in_degree": 276
+    }
+  ],
+  "source": "colorado-legal-rag chroma_db metadata (cross_references/parent_citation)"
+}
